@@ -155,6 +155,39 @@ Part B – Analytical Questions
      gaps. Simultaneously, reallocating some budget from stronger regions to boost North's performance could help balance revenue distribution across all regions.
 
 ENHANCEMENT SECTION
+<img width="226" height="228" alt="image" src="https://github.com/user-attachments/assets/e2798374-19e7-4c4c-a5a9-f5770fc7f2d2" />
+Question & Answer:
+● What is the total sales amount?
+  - 220k
+
+Task 2: Add Slicer
+<img width="236" height="237" alt="image" src="https://github.com/user-attachments/assets/bf1536f7-5d78-4824-a935-90ccaff67cf2" />
+Question:
+● What happens to other visuals when you click a region?
+  - This is a Slicer visual in Power BI showing Sales by Region. It lists different region values (159, 160, 164, 167, 170, 174, 175, 176, 179...) each with a checkbox next     to it, allowing users to select one or multiple regions at a time.
+    The checkmarks (✓) on the left side indicate that these items are available for selection, while the empty checkboxes (□) show they are currently unselected/unfiltered.
+● Why is filtering important in BI?
+  - Filtering is one of the most critical features in BI because it transforms overwhelming data into meaningful, actionable insights.
+Question:
+● Does sorting improve readability?
+  - Yes, absolutely
+● Why?
+  - Sorting reduces mental effort by making lists feel predictable and familiar. When a user looks at an unsorted list like West, South, North, East, they are forced to   
+    process each item individually before making a selection. However, if the same list were sorted alphabetically as East, North, South, West, the eye can move quickly and     confidently to the right option. This becomes even more important as the number of items in a list grows larger.
+    Sorting also improves the overall professionalism and trustworthiness of a report. A well-ordered slicer or table signals to stakeholders that the data has been     
+    carefully organized and is reliable. Additionally, when data is sorted by performance or value, patterns become immediately visible, such as which region has the 
+    highest or lowest sales, without requiring any extra analysis from the user. Overall, sorting is a simple but powerful design decision that transforms a cluttered 
+    visual into a clear and actionable one.
+
+Task 4: Identify Outliers
+● Which region is significantly higher or lower?
+  - Based on the visuals, the sales values range from 159 to 1060, which is a very wide gap. The region closest to 1060 is the high outlier while the region sitting around      159 is the low outlier, meaning one region is performing significantly better than the rest.
+● What might explain that difference?
+  - The difference could be explained by several factors. The higher performing region likely has a larger population, more stores, or stronger marketing investment. The   
+    lower performing region may be facing weaker demand, fewer sales channels, or a smaller geographic market. Economic conditions and regional customer preferences could   
+    also be driving the gap between the two extremes.
+
+
 
 
 
